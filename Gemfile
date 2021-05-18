@@ -14,7 +14,7 @@ gem 'paperclip', '~> 5.2.0'
 gem 'acts_as_permalink'
 gem 'remotipart'
 gem 'rails-html-sanitizer', '~> 1.0.4'
-gem 'nokogiri', '~> 1.10.8'
+gem 'nokogiri', '~> 1.11.4'
 gem 'sprockets', '~> 3.7.2'
 
 gem 'sass-rails'
